@@ -1,1 +1,1 @@
-# chat_app
+# Chat_application_project
